@@ -8,7 +8,7 @@ function setup() {
   document.addEventListener('DOMContentLoaded', (event) => {
     const button = document.getElementById('mainButton');
     button.addEventListener('click', () => {
-      window.location.href = "http://127.0.0.1:3000/MainPage/index.html"; // Replace with your desired URL
+      window.location.href = "https://katyasolis.github.io/Main_Web_separate/index.html"; // Replace with your desired URL
     });
   });
   
